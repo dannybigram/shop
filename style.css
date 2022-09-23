@@ -1,0 +1,177 @@
+h1{
+	font-family: 'Ubuntu', sans-serif;
+	color: #ffffcc;
+}
+h2{
+	color: #ffffcc;
+}
+h3{
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 2.5rem;
+	color: red;
+}
+h4{
+	font-family: 'Ubuntu', sans-serif;
+}
+h5{
+	color: #ffffcc;
+}
+h6{
+	color: #ffffcc;
+	font-family: 'Ubuntu', cursive;
+	word-spacing: 0.3rem;
+}
+
+p{
+	color: #333333;
+	font-size: 1.0rem;
+}
+em{
+	color: #ffffcc;
+}
+.logo{
+	width:50px;
+	padding-bottom: 10px;
+}
+#title{
+	background-color: #F0F0F0;
+	color: white;
+	padding: 0 10% 0 10%;
+}
+#spanbrand{
+	color: black;
+}
+
+#title-box{
+	background-image: url(images/background.png);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 400px;
+}
+
+
+/* TITLE BOX*/
+#img-big{
+	width: 400px;
+	border-radius: 30px;
+}
+.danny{
+    padding:100px 25px 10px 0;
+}
+.danny-btn{
+	margin-top:50px;
+}
+#discount{
+	color: red;
+}
+
+
+#freeship{
+	padding: 2% 0 2% 0;
+	text-align: center;
+	background-color:#F0F0F0;
+}
+
+#freeship{
+	color: #333333;
+	font-size: 1.0rem;
+	font-weight: bold;
+}
+
+
+
+/* sample image*/
+#sample-img{
+	padding: 2% 15%;
+	text-align: center;
+}
+.boximg{
+	background-image: url(images/boxshoe.png);
+	border-radius: 5px;
+	height: 300px;
+	width: 100%;
+	text-align: left;
+	padding: 100px 0  0 50px;
+}
+.box2img{
+	background-image: url(images/boxsandals.png);
+	border-radius: 5px;
+	height: 300px;
+	width: 100%;
+	text-align: left;
+	padding: 100px 0  0 50px;
+}
+
+
+/* title img*/
+#title-img{
+	background-color:#E2E2E2;
+	text-align: center;
+	padding:2% 5%;
+}
+.ddd{
+	margin-bottom: 5px;
+	width: 200px;
+}
+
+
+
+/*coming-soon*/
+
+
+/*testimonies*/
+#testimonies{
+	text-align: center;
+	background-image: url(images/long.png);
+	padding: 7% 5%;
+	text-align: left;
+}
+.testimonies-img{
+	width: 200px;
+	border-radius: 50%;
+	padding-top: 50PX;
+}
+.testface{
+	width: 10%;
+	border-radius: 50px;
+}
+
+
+/*FOOTER*/
+#footer{
+	text-align: center;
+	line-height: 2.5;
+}
+.twit{
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* THI IS THE CATEGORIES PAGE */
+
+
+.cat{
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+#categories{
+	text-align: center;
+	padding: 1% 10%;
+}
+.advert{
+	margin-top: 5%;
+	width: 100%;
+}
